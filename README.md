@@ -40,7 +40,7 @@
 * [Learn Python - Beginners with online IDE](https://www.learnpython.org/en/Hello%2C_World%21)
 * [W3 Schools- Python Tutorial with online IDE](https://www.w3schools.com/python/default.asp)
 
-### 8. Learn Python
+### 8. Keras
 * [Keras Tutorial: Deep Learning in Python](https://www.datacamp.com/community/tutorials/deep-learning-python)
 
 
