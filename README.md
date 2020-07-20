@@ -13,7 +13,7 @@
 * [Top 20 Git Commands With Examples](https://dzone.com/articles/top-20-git-commands-with-examples)
 
 ### 3. Slack Channels
-* [Kaggle](https://app.slack.com/client/T1559JB9V/C1M3WSX8E)
+* [KaggleNoobs](https://app.slack.com/client/T1559JB9V/C1M3WSX8E)
 
 ### 4. Other Misc Github ML Repos
 * [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
