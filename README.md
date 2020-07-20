@@ -23,7 +23,7 @@
 ### 5. Useful Blogs
 * [How To Become A Machine Learning Engineer? – Learning Path](https://www.edureka.co/blog/how-to-become-a-machine-learning-engineer/)
 
-### 5. About Kaggle
+### 6. About Kaggle
 * [Best Kaggle competitions for beginners](https://www.kaggle.com/getting-started/44088)
 * [How to Use Kaggle](https://www.kaggle.com/docs/competitions)
 * [Kaggle- Micro Courses](https://www.kaggle.com/learn/overview)
@@ -31,9 +31,19 @@
 * [Some of the Best Kaggle Competitions for Beginners V2](https://www.kaggle.com/getting-started/78482)
 * [Data Science Glossary on Kaggle](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
 * [https://www.kaggle.com/getting-started/108810](https://www.kaggle.com/getting-started/108810)
+* [Kaggle Winner's Blog (Interviews with top Kagglers by the Kaggle Team)](https://medium.com/kaggle-blog)
 
-### 5. e-Books
+### 7. e-Books
 * [Artificial Intelligence and Deep Learning](https://leonardoaraujosantos.gitbook.io/artificial-inteligence/)
+
+### 8. Learn Python
+* [Learn Python - Beginners with online IDE](https://www.learnpython.org/en/Hello%2C_World%21)
+* [W3 Schools- Python Tutorial with online IDE](https://www.w3schools.com/python/default.asp)
+
+### 8. Learn Python
+* [Keras Tutorial: Deep Learning in Python](https://www.datacamp.com/community/tutorials/deep-learning-python)
+
+
 
 
 
