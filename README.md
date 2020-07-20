@@ -18,10 +18,10 @@
 ### 4. Other Misc Github ML Repos
 * [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [Mani Sarkar](https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/README.md)
-* [Resources for Continued Learning](Resources for Continued Learning)
+* [Resources for Continued Learning](https://github.com/justmarkham/DAT3/blob/master/resources.md)
 
 ### 5. Useful Blogs
-* [How To Become A Machine Learning Engineer? – Learning Path](How To Become A Machine Learning Engineer? – Learning Path)
+* [How To Become A Machine Learning Engineer? – Learning Path](https://www.edureka.co/blog/how-to-become-a-machine-learning-engineer/)
 
 ### 5. About Kaggle
 * [Best Kaggle competitions for beginners] (https://www.kaggle.com/getting-started/44088)
