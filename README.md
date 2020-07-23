@@ -23,7 +23,7 @@
 ### 5. Useful Blogs
 * [How To Become A Machine Learning Engineer? – Learning Path](https://www.edureka.co/blog/how-to-become-a-machine-learning-engineer/)
 
-### 6. About Kaggle
+### 6. Kaggle
 * [Best Kaggle competitions for beginners](https://www.kaggle.com/getting-started/44088)
 * [How to Use Kaggle](https://www.kaggle.com/docs/competitions)
 * [Kaggle- Micro Courses](https://www.kaggle.com/learn/overview)
