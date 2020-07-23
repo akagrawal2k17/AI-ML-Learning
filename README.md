@@ -32,6 +32,18 @@
 * [Data Science Glossary on Kaggle](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
 * [https://www.kaggle.com/getting-started/108810](https://www.kaggle.com/getting-started/108810)
 * [Kaggle Winner's Blog (Interviews with top Kagglers by the Kaggle Team)](https://medium.com/kaggle-blog)
+* Tablular Kaggle Competitions to try
+  * [Allstate Claims Severity](https://www.kaggle.com/c/allstate-claims-severity)
+  * [Santander Customer Transaction Prediction](https://www.kaggle.com/c/notebook)
+  * [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/notebook)
+  * [Microsoft Malware Prediction](https://www.kaggle.com/c/microsoft-malware-prediction)
+  * [HDMA Washington State Home Loans, 2016](https://www.kaggle.com/miker400/washington-state-home-mortgage-hdma2016)
+  * [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)
+  * [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
+  * [Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)
+  * [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
+  * [BNP Paribas Cardif Claims Management](https://www.kaggle.com/c/comments)
+  * [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/discussion/comments)  
 
 ### 7. e-Books
 * [Artificial Intelligence and Deep Learning](https://leonardoaraujosantos.gitbook.io/artificial-inteligence/)
