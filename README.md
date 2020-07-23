@@ -43,6 +43,14 @@
 ### 8. Keras
 * [Keras Tutorial: Deep Learning in Python](https://www.datacamp.com/community/tutorials/deep-learning-python)
 
+### 9. Learning AI - Very Good References
+* [Google Deep Mind](https://deepmind.com/learning-resources)
+
+### 9. Learning TPU at Kaggle
+* [TPU Getting Started](https://www.kaggle.com/c/tpu-getting-started/overview)
+* [TPU Getting Started Noteboon](https://www.kaggle.com/akashsuper2000/flower-classification-with-tpus)
+
+
 
 
 
