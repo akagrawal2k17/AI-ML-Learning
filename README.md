@@ -32,7 +32,7 @@
 * [Data Science Glossary on Kaggle](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
 * [https://www.kaggle.com/getting-started/108810](https://www.kaggle.com/getting-started/108810)
 * [Kaggle Winner's Blog (Interviews with top Kagglers by the Kaggle Team)](https://medium.com/kaggle-blog)
-* Tablular Kaggle Competitions to try
+* Tablular Data Intermediate Kaggle Competitions
   * [Allstate Claims Severity](https://www.kaggle.com/c/allstate-claims-severity)
   * [Santander Customer Transaction Prediction](https://www.kaggle.com/c/notebook)
   * [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/notebook)
