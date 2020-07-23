@@ -43,7 +43,10 @@
   * [Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)
   * [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
   * [BNP Paribas Cardif Claims Management](https://www.kaggle.com/c/comments)
-  * [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/discussion/comments)  
+  * [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/discussion/comments)
+* Learning TPU at Kaggle
+ * [TPU Getting Started](https://www.kaggle.com/c/tpu-getting-started/overview)
+ * [TPU Getting Started Noteboon](https://www.kaggle.com/akashsuper2000/flower-classification-with-tpus)
 
 ### 7. e-Books
 * [Artificial Intelligence and Deep Learning](https://leonardoaraujosantos.gitbook.io/artificial-inteligence/)
@@ -58,9 +61,6 @@
 ### 9. Learning AI - Very Good References
 * [Google Deep Mind](https://deepmind.com/learning-resources)
 
-### 9. Learning TPU at Kaggle
-* [TPU Getting Started](https://www.kaggle.com/c/tpu-getting-started/overview)
-* [TPU Getting Started Noteboon](https://www.kaggle.com/akashsuper2000/flower-classification-with-tpus)
 
 
 
