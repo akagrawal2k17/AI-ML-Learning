@@ -19,9 +19,13 @@
 * [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [Mani Sarkar](https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/README.md)
 * [Resources for Continued Learning](https://github.com/justmarkham/DAT3/blob/master/resources.md)
+* [Starter Code for many Projects](https://github.com/KemmieKemy)
 
 ### 5. Useful Blogs
-* [How To Become A Machine Learning Engineer? – Learning Path](https://www.edureka.co/blog/how-to-become-a-machine-learning-engineer/)
+* [How To Become A Machine Learning Engineer? – Learning Path](https://www.edureka.co/blog/how-to-become-a-machine-learning-engineer
+* [What You Need To Know About Web Scraping](https://medium.com/analytics-vidhya/what-you-need-to-know-about-web-scraping-fa626e447343)
+* [An End-to-End Data Science Project on Diabetes](https://medium.com/analytics-vidhya/an-end-to-end-data-science-project-on-diabetes-9a70c8368d2a)
+
 
 ### 6. Kaggle
 * [Best Kaggle competitions for beginners](https://www.kaggle.com/getting-started/44088)
