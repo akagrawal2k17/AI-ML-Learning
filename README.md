@@ -58,8 +58,9 @@
 ### 8. Keras
 * [Keras Tutorial: Deep Learning in Python](https://www.datacamp.com/community/tutorials/deep-learning-python)
 
-### 9. Learning AI - Very Good References
+### 9. Learning AI - Good References
 * [Google Deep Mind](https://deepmind.com/learning-resources)
+* [fastai/fastbook](https://github.com/fastai/fastbook)
 
 ### 10. Resume
 * [Free Resume Preparation](https://novoresume.com/)
