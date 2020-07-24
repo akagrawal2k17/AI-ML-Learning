@@ -68,7 +68,7 @@
 ### 10. Resume
 * [Free Resume Preparation](https://novoresume.com/)
 * [Resume Review](https://www.topresume.com/)
-* [WrdCloud - TBD](https://www.wordclouds.com/)
+* [WordCloud - TBD](https://www.wordclouds.com/)
 
 
 
