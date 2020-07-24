@@ -60,7 +60,10 @@
 
 ### 9. Learning AI - Good References
 * [Google Deep Mind](https://deepmind.com/learning-resources)
-* [fastai/fastbook](https://github.com/fastai/fastbook)
+* Fast AI Course
+ * [Fast AI Online Reading Course](https://course.fast.ai/index.html)
+ * [fastai/fastbook](https://github.com/fastai/fastbook)
+ * [Fast AI discussion Forum](https://forums.fast.ai/c/fastai-users/fastai-v2)
 
 ### 10. Resume
 * [Free Resume Preparation](https://novoresume.com/)
