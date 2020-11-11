@@ -63,14 +63,17 @@
 ### 8. Keras
 * [Keras Tutorial: Deep Learning in Python](https://www.datacamp.com/community/tutorials/deep-learning-python)
 
-### 9. Learning AI - Good References
+### 9. Pytorch
+* [Learn PyTorch Basics](https://medium.com/biaslyai/learn-pytorch-basics-6d433f186b7a)
+
+### 10. Learning AI - Good References
 * [Google Deep Mind](https://deepmind.com/learning-resources)
 * Fast AI Course
  * [Fast AI Online Reading Course](https://course.fast.ai/index.html)
  * [fastai/fastbook](https://github.com/fastai/fastbook)
  * [Fast AI discussion Forum](https://forums.fast.ai/c/fastai-users/fastai-v2)
 
-### 10. Resume
+### 11. Resume
 * [Free Resume Preparation](https://novoresume.com/)
 * [Resume Review](https://www.topresume.com/)
 * [WordCloud - TBD](https://www.wordclouds.com/)
