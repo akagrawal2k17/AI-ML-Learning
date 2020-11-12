@@ -14,6 +14,7 @@
 
 ### 3. Slack Channels
 * [KaggleNoobs](https://app.slack.com/client/T1559JB9V/C1M3WSX8E)
+* [Learning Resources recommended by KaggleNoobs](https://github.com/jorellano/kagglebot/blob/master/README.md)
 
 ### 4. Other Misc Github ML Repos
 * [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
@@ -68,10 +69,13 @@
 
 ### 10. Learning AI - Good References
 * [Google Deep Mind](https://deepmind.com/learning-resources)
-* Fast AI Course
+* [Fast AI Course](https://course.fast.ai/)
  * [Fast AI Online Reading Course](https://course.fast.ai/index.html)
  * [fastai/fastbook](https://github.com/fastai/fastbook)
  * [Fast AI discussion Forum](https://forums.fast.ai/c/fastai-users/fastai-v2)
+ * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+ * [CS229: Machine Learning](http://cs229.stanford.edu/)
+ * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
 ### 11. Resume
 * [Free Resume Preparation](https://novoresume.com/)
