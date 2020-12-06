@@ -83,6 +83,13 @@
 * [WordCloud - TBD](https://www.wordclouds.com/)
 
 
+## 12. Data load in Google Colab, google drive and github
+
+* [4 Awesome Ways Of Loading ML Data In Google Colab](https://towardsdatascience.com/4-awesome-ways-of-loading-ml-data-in-google-colab-9a5264c61966)
+* [Colaboratory + Drive + Github -> the workflow made simpler](https://zerowithdot.com/colab-github-workflow/)
+* [Speed up your image training on Google Colab](https://medium.com/datadriveninvestor/speed-up-your-image-training-on-google-colab-dc95ea1491cf)
+
+
 
 
 
